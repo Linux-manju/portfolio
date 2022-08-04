@@ -1,0 +1,122 @@
+.menu-category {
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 17px;
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+
+.menu {
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 110%;
+    margin-left: -10px;
+    padding: 5px;
+    box-shadow: 0px 10px 15px rgb(235, 235, 235);
+    padding-top: 7px;
+}
+
+.logo {
+    position: relative;
+    bottom: 5px;
+}
+
+.logo-text {
+    letter-spacing: 2px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.copy-text {
+    margin-top: 45vh;
+    margin-bottom: 45vh;
+    font-size: 30px;
+}
+
+.copy-text2 {
+    background-color: rgb(233, 233, 233);
+}
+
+.logo-text {
+    margin-right: 30%;
+}
+
+.copy-text3 {
+    letter-spacing: 20px;
+    height: 50px;
+    background: linear-gradient(70deg, rgb(255, 234, 158), rgb(255, 140, 106));
+}
+
+.manju-text {
+    font-size: 24px;
+}
+
+.web {
+    width: 980px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.manju-text {
+    margin-left: 70px;
+    letter-spacing: 5px;
+}
+
+.gray-space {
+    width: 100%;
+    background-color: rgb(242, 242, 242);
+    padding: 10px;
+}
+
+body {
+    overflow-x: hidden;
+    line-height: 20px;
+    letter-spacing: 1px;
+   }
+
+.text-box {
+    width: 980px;
+    height: 300px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.blender-image {
+    float: left;
+    margin: 20px;
+}
+
+.tb {
+    position: relative;
+    top: 20px;
+}
+
+.blender-image2 {
+    float: right;
+    margin: 20px;
+    position: relative;
+    bottom: 120px;
+}
+
+.tt2 {
+    position: relative;
+    top: 50px;
+}
+
+.tb2 {
+    position: relative;
+    top: 20px;
+}
+
+.tb3 {
+    position: relative;
+    top: 30px;
+}
